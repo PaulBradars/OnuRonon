@@ -1,0 +1,23 @@
+# Python environments
+.venv/
+.venv-linux/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node.js
+node_modules/
+dist/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# ML generated files
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+*.log
