@@ -8,4 +8,4 @@ __pycache__/
 !.env.example
 *.pt
 *.pth
-*.ckpt
+*.ckptfrontend/.git-backup/
