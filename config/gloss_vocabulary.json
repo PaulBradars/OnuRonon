@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0",
+  "glosses": [
+    {"gloss_id": "APNI", "label_bn": "আপনি", "variants": ["default"], "linguistic_status": "provisional"},
+    {"gloss_id": "CHA", "label_bn": "চা", "variants": ["default"], "linguistic_status": "provisional"},
+    {"gloss_id": "KHAWA", "label_bn": "খাওয়া", "variants": ["default"], "linguistic_status": "provisional"}
+  ]
+}

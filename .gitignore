@@ -8,4 +8,13 @@ __pycache__/
 !.env.example
 *.pt
 *.pth
-*.ckptfrontend/.git-backup/
+*.ckpt
+frontend/.git-backup/
+data/raw_videos/*
+!data/raw_videos/.gitkeep
+data/landmarks/*
+!data/landmarks/.gitkeep
+data/cleaned_motion/*
+!data/cleaned_motion/.gitkeep
+data/reports/*
+!data/reports/.gitkeep
